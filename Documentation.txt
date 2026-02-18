@@ -10,6 +10,6 @@ Testit:
     unit testi: npm run test.
     integraatio testi: rpm run dev.
 
-Serveri käynnistys:
+Serverin käynnistys:
     projektin juuressa suorita:
     > node server.js
