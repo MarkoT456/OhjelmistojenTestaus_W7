@@ -1,0 +1,15 @@
+Git link: https://github.com/MarkoT456/OhjelmistojenTestaus_W7.git
+
+Demo API projekti.
+Aluksi aja seuraavat komennot:
+    >npm init -y
+    >npm install express --save
+    >npm install mocha chai supertest
+
+Testit:
+    unit testi: npm run test.
+    integraatio testi: rpm run dev.
+
+Serveri käynnistys:
+    projektin juuressa suorita:
+    > node server.js
