@@ -8,7 +8,7 @@ Aluksi aja seuraavat komennot:
 
 Testit:
     unit testi: npm run test.
-    integraatio testi: rpm run dev.
+    integraatio testi: npm run dev.
 
 Serverin käynnistys:
     projektin juuressa suorita:
